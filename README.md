@@ -1,5 +1,5 @@
 # WORDS
 
 ## 개발 용어
-보일러 플레이트 코드 ( Boilerplate code )
+보일러 플레이트 코드 ( Boilerplate code )  
 `최소한의 변경으로 여러곳에서 재사용되며, 반복적으로 비슷한 형태를 띄는 코드`
